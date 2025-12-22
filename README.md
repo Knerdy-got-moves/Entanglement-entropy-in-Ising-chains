@@ -117,11 +117,15 @@ This work connects to several important concepts in quantum many-body physics:
 4. D. N. Page, "Average entropy of a subsystem," [Phys. Rev. Lett. 71, 1291 (1993)](https://doi.org/10.1103/PhysRevLett.71.1291)
 
 ### Floquet Systems & Fragmentation
-5. A. Eckardt, "Colloquium: Atomic quantum gases in periodically driven optical lattices," [Rev. Mod. Phys. 89, 011004 (2017)](https://doi.org/10.1103/RevModPhys.89.011004)
-6. V. Khemani et al., "Phase Structure of Driven Quantum Systems," [Phys. Rev. Lett. 116, 250401 (2016)](https://doi.org/10.1103/PhysRevLett.116.250401)
+
+5. P. Sala et al., "Ergodicity Breaking Arising from Hilbert Space Fragmentation in Dipole-Conserving Hamiltonians," [Phys. Rev. X 10, 011047 (2020)](https://doi.org/10.1103/PhysRevX.10.011047)
+6. V. Khemani, M. Hermele, and R. Nandkishore, "Localization from Hilbert space shattering: From theory to physical realizations," [Phys. Rev. B 101, 174204 (2020)](https://doi.org/10.1103/PhysRevB.101.174204)
+7. S. Ghosh, I. Paul, and K. Sengupta, "Prethermal Fragmentation in a Periodically Driven Fermionic Chain," [Phys. Rev. Lett. 130, 120401 (2023)](https://doi.org/10.1103/PhysRevLett.130.120401)
+
+
 
 ### QuSpin Package
-7. P. Weinberg and M. Bukov, "QuSpin: a Python package for dynamics and exact diagonalization of quantum many body systems," [SciPost Phys. 2, 003 (2017)](https://doi.org/10.21468/SciPostPhys.2.1.003)
+8. P. Weinberg and M. Bukov, "QuSpin: a Python package for dynamics and exact diagonalization of quantum many body systems," [SciPost Phys. 2, 003 (2017)](https://doi.org/10.21468/SciPostPhys.2.1.003)
 
 ## Contributing
 
