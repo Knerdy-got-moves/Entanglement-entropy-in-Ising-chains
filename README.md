@@ -104,7 +104,7 @@ This work connects to several important concepts in quantum many-body physics:
 - **ETH Violation**: Certain integrable or many-body localized systems fail to thermalize
 - **Floquet Systems**: Periodically driven quantum systems with emergent behavior
 - **Hilbert Space Fragmentation**: Dynamical constraints that partition the state space
-- **Prethermal Regime**: Long-lived non-thermal states before eventual thermalization
+- **Prethermal Regime**: Long-lived non-thermal states
 
 ## References
 
